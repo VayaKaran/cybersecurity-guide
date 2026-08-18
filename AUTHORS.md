@@ -1,38 +1,38 @@
-# Authorship
+# Authorship Statement
 
 ## Cybersecurity Guide 2
 
-**Primary Author and Project Developer:** Karan B. Vaya
+**Author:** Karan B. Vaya  
+**Year:** 2026  
+**Project:** Cybersecurity Guide 2
 
-**Project Started:** 2026
+Cybersecurity Guide 2 is an independently developed cybersecurity
+learning and documentation project created as part of my personal
+cybersecurity education and portfolio development.
 
-**Project Type:** Independent cybersecurity learning and
-documentation project.
+I designed and developed the overall structure of the guide,
+including its chapter organization, learning progression, exercises,
+documentation structure, revision framework, and supporting material.
 
-## Author Contribution
+### Visual Assets
 
-The author is responsible for the project's:
+The guide contains 100+ visual assets created/generated specifically
+for this project.
 
-- curriculum structure
-- topic selection
-- learning methodology
-- research and study process
-- technical documentation
-- exercises and learning activities
-- organization of chapters
-- portfolio structure
-- revisions and maintenance
+These visual assets were independently produced for Cybersecurity
+Guide 2 and were not copied from third-party websites, books, or
+other cybersecurity guides.
 
-## Purpose
+### Repository History
 
-This repository serves as the public development and version history
-for Cybersecurity Guide 2 and its associated learning artifacts.
+This GitHub repository was established after the initial development
+of the guide. Therefore, the repository does not represent the
+complete historical development process of the document.
 
-## Assistance and Tools
+The repository establishes the public version history of the project
+from its publication date onward.
 
-External references, documentation, educational resources, and
-software/AI tools may be used for research, verification, editing,
-formatting, and learning assistance where appropriate.
+### Responsibility
 
-Responsibility for reviewing, organizing, understanding, and
-maintaining the published project remains with the author.
+The author is responsible for reviewing, organizing, maintaining,
+and publishing the project's content and supporting materials.
